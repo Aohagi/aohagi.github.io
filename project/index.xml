@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Abdirahman Omar H</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Abdirahman Omar H</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Aohagi 2019</copyright>
+    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysis American Time Use Survey Data to know how american spend their time</title>
+      <link>/project/atus-survey-data/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/atus-survey-data/</guid>
+      <description>load packageslibrary(janitor) library(ggplot2) library(dplyr) library(lubridate) library(zoo) library(forcats) library(ggthemes) library(knitr)
+set working directoryknitr::opts_knit$set(root.dir = ‘data’)
+ATUS Survey Data</description>
+    </item>
+    
+    <item>
+      <title>Regression Models Course Project</title>
+      <link>/project/reg/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/reg/</guid>
+      <description>SynopsisMotor Trend US, a magazine about the automobile industry, is looking at a data set of a collection of cars. They are interested in exploring the relationship between a set of variables and miles per gallon (MPG) (outcome). They are particularly interested in the following two questions:
+“Is an automatic or manual transmission better for MPG”“Quantify the MPG difference between automatic and manual transmissions”Some Data ExplorationHere, I will explore the data and then show correlations between the outcome variable, i.</description>
+    </item>
+    
+  </channel>
+</rss>
